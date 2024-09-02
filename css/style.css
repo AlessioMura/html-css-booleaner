@@ -1,19 +1,68 @@
+.div_left {
+    padding-left: 6%;
+}
+
+#banner {
+
+    height: 170px;
+    width: 1368px;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(70, 142, 250);
+}
+
+h1 {
+    font-size: 58px;
+}
 
 #colored_subtitle {
-    color: aqua;
-  
-  }
+    color: rgb(0, 162, 255);
+
+}
+
+#subtitle {
+    color: gray;
+
+}
+
+.font_size {
+    font-size: 25px;
+}
+
 
 .yellow_bg {
     background-color: yellow;
 }
+
 #thead {
     background-color: rgb(34, 185, 255);
     color: white;
 }
+
 .tab_bg {
     background-color: rgb(139, 232, 255);
 }
-#banner {
-    background: rgb(70, 119, 255);
+
+.tb {
+    block-size: 100px;
+}
+
+
+
+footer {
+    font-size: 20px;
+    color: gray;
+}
+
+#p1 {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 311px;
+    color: white;
+}
+
+#p2 {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 311px;
+    color: white;
 }
