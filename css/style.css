@@ -4,13 +4,16 @@
   
   }
 
-#yellow_bg {
+.yellow_bg {
     background-color: yellow;
 }
 #thead {
     background-color: rgb(34, 185, 255);
     color: white;
 }
-#tab_bg {
+.tab_bg {
     background-color: rgb(139, 232, 255);
+}
+#banner {
+    background: rgb(70, 119, 255);
 }
